@@ -3,9 +3,9 @@
 **Web View Of The Application**
 ![App Screenshot](./New%20folder/Screenshot%202022-09-05%20203743.png)
 
-**SideBar Of The Application**
+<!-- **SideBar Of The Application**
 
-![App Screenshot](./New%20folder/Screenshot%202022-09-05%20203821.png)
+![App Screenshot](./New%20folder/Screenshot%202022-09-05%20203821.png) -->
 
 **Mobile View Of The Application**
 
