@@ -37,3 +37,7 @@ I am a first-year B.Tech undergraduate with an interest in Software Engineering.
 #### Is The Project Mobile Responsive
 
 Yes it is absolutely mobile responsive
+
+## License
+
+[MIT License](LICENSE)
